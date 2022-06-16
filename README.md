@@ -1,4 +1,6 @@
 # Magic_tower_defence
+## How to run
+Down load this repo and run the run.py if you have python3 and pygame
 
 ## Screenshot
  
@@ -50,7 +52,7 @@ Training cave: It is also a kind of support tower, which could increase the atta
 游戏中的角色分为邪恶的精灵和guarder的两个阵营。玩家在守卫阵营中。 他们不能换边站。 在游戏中，总共有12个波浪。玩家需要击败所有精灵才能获胜。 每当 all 精灵在屏幕中被击败时，它都会自动暂停并保存进度。如果保护任务fails，系统会自动跳转到主界面，有机会玩一次。图1和图2   显示了两个阵营的主要特征和特征。
 
  
-![alt text](/mages/enemies.PNG)
+![alt text](/Images/enemies.PNG)
 
 （图1： 四 种类型的精灵：蝎子， 僵尸， 骑士 和老板）
 蝎子：它  的生命力很弱。当一群怪物出现时，B ut可能会措手不及。杀死+10颗星星。 
