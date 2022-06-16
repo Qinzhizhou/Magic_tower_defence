@@ -10,7 +10,7 @@ The start screen includes the name of the game and the button to enter the game.
 
 ## Role setting:
 The characters in the game are divided into evil sprites and guarders two camps. The player is in the guarder camp. They cannot switch sides. In this game, there are 12 waves totally. Players need to defeat all sprites in order to win. Every time all sprites is defeated in the screen, it would automatically pause and save progress. If the protect mission fails, the system will automatically jump to the main interface, there is a chance to play once. The main characters and features of the two camps are shown in figure 1 and figure 2. 
-
+![alt text](Images/enemies.png)
       
 (Figure 1: four types of sprites: scorpion, zombie, knight and boss)
 Scorpion: it has weak health. But may be caught off guard when a group of monsters appear. Kill +10 stars. 
