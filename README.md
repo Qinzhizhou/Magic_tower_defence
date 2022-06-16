@@ -1,4 +1,10 @@
 # Magic_tower_defence
+
+## Screenshot
+ 
+![alt text](Images/screenshot1.PNG)
+![alt text](Images/screenshot2.PNG)
+
 ## Background setting:
 In the misty virgin forest, there is a Nottingcastle that has condensed hundreds of years of human wisdom. It is guarded by Robin and his friends. One day, the evil sprites found the treasure and wanted to take it for themselves. Will the heroic Robins succeed in protecting the castle?
 
@@ -21,6 +27,7 @@ Boss: it is Absolutely strong. But it also extremely slow and has a lot of blood
  
  
 ![alt text](Images/Towers.PNG)
+
 (Figure 2: cloth warrior and armor warrior; energy fortress and training cave)
 At the beginning of the game, there are 3,000 stars that could be used to build guarders.
 Cloth warrior: it is the base guarder, which has low damage but larger range. It costs 500 stars to build. When a sprite passes within its attack radius, it deals damage. 
@@ -44,6 +51,7 @@ Training cave: It is also a kind of support tower, which could increase the atta
 
  
 ![alt text](/mages/enemies.PNG)
+
 （图1： 四 种类型的精灵：蝎子， 僵尸， 骑士 和老板）
 蝎子：它  的生命力很弱。当一群怪物出现时，B ut可能会措手不及。杀死+10颗星星。 
 僵尸：它移动 适度 ，血液 较多 ，如果火力较弱，需要瞄准 它。 杀戮 + 30 星。 
@@ -52,6 +60,8 @@ Boss：它绝对强大。 但它也非常慢，并且有很多血液，在每一
  
  
 ![alt text](Images/Towers.PNG)
+
+
 （图2：布战士和盔甲战士; 能量 要塞 和训练 洞穴）
 在游戏开始时，有3000颗星星  可以用来建造守卫。 
 布战士：是基础护卫兵，   伤害小，但射程大。 建造它需要花费500颗星星。 当精灵在其攻击半径内通过时，它会造成伤害。 
